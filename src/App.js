@@ -1,8 +1,10 @@
 import './App.css';
+import OnePage from './OnePageBoot/OnePage';
 
 function App() {
   return (
-    <div className="App">
+    <div>
+        <OnePage/>
     </div>
   );
 }
